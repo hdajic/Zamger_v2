@@ -1,2 +1,1 @@
-# Projekti
-Projekti koje sam radio u sklopu fakulteta.
+# Zadaci u C# koje sam radio.
