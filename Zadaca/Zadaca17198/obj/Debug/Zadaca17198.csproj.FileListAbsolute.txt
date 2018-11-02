@@ -1,0 +1,15 @@
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.dll
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.pdb
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.dll
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.pdb
+C:\Users\haris\Desktop\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.dll
+C:\Users\haris\Desktop\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.pdb
+C:\Users\haris\Desktop\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.dll
+C:\Users\haris\Desktop\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.pdb
+E:\Zadaca RPR\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.dll
+E:\Zadaca RPR\Zadaca17198\Zadaca17198\bin\Debug\Zadaca17198.pdb
+E:\Zadaca RPR\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.csprojResolveAssemblyReference.cache
+E:\Zadaca RPR\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.dll
+E:\Zadaca RPR\Zadaca17198\Zadaca17198\obj\Debug\Zadaca17198.pdb

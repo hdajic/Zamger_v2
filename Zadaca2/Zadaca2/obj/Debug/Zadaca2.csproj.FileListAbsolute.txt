@@ -1,0 +1,33 @@
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\bin\Debug\Zadaca2.pdb
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Form1.resources
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Properties.Resources.resources
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.GenerateResource.Cache
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
+c:\users\haris\documents\visual studio 2015\Projects\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Fakultet.resources
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.pdb
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csprojResolveAssemblyReference.cache
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Zamger.resources
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Form1.resources
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Properties.Resources.resources
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.GenerateResource.Cache
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\bin\Debug\BazaPodataka.mdf
+C:\Users\haris\Desktop\Zadaca2\Zadaca2\bin\Debug\BazaPodataka_log.ldf
+E:\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csprojResolveAssemblyReference.cache
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Zamger.resources
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Form1.resources
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.Properties.Resources.resources
+E:\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.GenerateResource.Cache
+E:\Zadaca RPR\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+E:\Zadaca RPR\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+E:\Zadaca RPR\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
