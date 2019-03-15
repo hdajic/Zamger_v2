@@ -1,1 +1,1 @@
-# Zadaci u C# koje sam radio.
+# Razvoj programskih rješenja.
